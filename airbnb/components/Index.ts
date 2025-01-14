@@ -1,4 +1,5 @@
 import Navbar from "./Navbar";
+import SearchFilter from "./SearchFilter";
 import Footer from "./footer";
 
-export{Navbar, Footer}
+export{Navbar, Footer, SearchFilter}
