@@ -16,9 +16,11 @@ const Navbar = () => {
             />
           </Link>
           <div className="flex space-x-6">
-            <SearchFilter />
-          </div>
-          <div>botums</div>
+          <SearchFilter/>
+        </div>
+        <div>
+          botums
+        </div>
         </div>
       </nav>
     </header>
