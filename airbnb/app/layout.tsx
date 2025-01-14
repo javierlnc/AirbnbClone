@@ -25,7 +25,9 @@ export default function RootLayout({
         className={`${monserrat.className} antialiased`}
       >
         <Navbar/>
+        <div className="pt-20 md:pt-32">
         {children}
+        </div>
       </body>
     </html>
   );
