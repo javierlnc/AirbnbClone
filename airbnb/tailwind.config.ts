@@ -13,7 +13,11 @@ export default {
         foreground: "var(--foreground)",
         airbnb:{
           'neutral': '#FF5A5F',
-          'dark': '#C7494E'
+          'dark': '#C7494E',
+        },
+        grays:{
+          'light': '#767676',
+          'dark':'#484848',
         }
       },
     },
